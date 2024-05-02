@@ -1,0 +1,1 @@
+# Full Stack with TypeScript , React , NextJS , MongoDB, and Docker
